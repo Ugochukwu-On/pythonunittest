@@ -1,5 +1,5 @@
 import unittest
-import repeated_digit
+from Test.repdigit import repeated_digit
 
 
 class TestRepeatedDigit(unittest.TestCase):
