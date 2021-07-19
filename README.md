@@ -1,7 +1,7 @@
 # About pythonunittest 
 *Purpose of Internship training*
 
-This repository contains Six(6) Directory.
+This repository contains Six(6) Directories.
 
 ## Features
 * Conatins two python files.
