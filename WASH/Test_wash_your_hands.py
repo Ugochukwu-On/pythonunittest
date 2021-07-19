@@ -1,5 +1,5 @@
 import unittest
-import wash_your_hands
+from Test.WASH import wash_your_hands
 
 
 class TestWashYourHands(unittest.TestCase):
